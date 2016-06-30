@@ -48,7 +48,7 @@ public class Servidor {
 			*/
 			
 		} catch(Exception e){			
-			System.out.println("QUE PEDO "+e.getMessage());
+			System.out.println(e.getMessage());
 		}				
 		// as a server
 	}
